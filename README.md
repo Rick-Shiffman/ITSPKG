@@ -15,8 +15,10 @@ To experiment with this package system, Start an ITS MUDDLE and load PPRINT to h
 After this FLOAD t:rrs;itspkg > to load the package system. Then USE package-name to load the package you wanted.
 Below is an example of how to run MIGS, all in t:rrs; directory. TRANS translates graphics coordinates in the character
 Codes used by the graphics terminal. MIGSSEND sends these character codes to your terminal. When starting MIGS
-Use "A" ards and Imlacs or enter "H" for the help documentation. "T" is for Tektronix 4010 type terminals
+Use "A" Ards and Imlacs or enter "H" for the help documentation. "T" is for Tektronix 4010 type terminals
+	
 ...........................................
+	
 *MDL$^K!
 MUDDLE 56 IN OPERATION.MUDDLE INIT
 PPRINT? (Y OR N) space is yes too /PPRINT/FRAMES
