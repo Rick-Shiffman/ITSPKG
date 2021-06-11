@@ -9,7 +9,7 @@ Hi Everyone latest version, TT:RRS;ITSPKG URS232, my  minimal ITS Muddle Package
 For peop[le to expriment with  report bugs to me at rrs0@earthlink.net and I will work on them. At the present
 Time I didn't add support for packages and my TRANSLATE? Just returns the string it given. The realmTRANSLATE?
 TRANSLATE AND UNTRANSLATE are still MIM code and commented out. L-SEARCH-PATH is SETGed to 
-(<SNAME>  "MUDDLE") and FIND/LOAD looks for FN1 = package=name, and FN2 = ">".
+(<SNAME>  "MUDDLE") and FIND/LOAD looks for FN1 = package-name, and FN2 = ">".
 
 To experiment with this package system, Start an ITS MUDDLE and load PPRINT to help maintain your sanity 
 After this FLOAD t:rrs;itspkg > to load the package system. Then USE package-name to load the package you wanted.
