@@ -38,6 +38,7 @@ LISTENING-AT-LEVEL 1 PROCESS 1
 
 Muddle Interactive Graphics System
 Enter terminal code or 'H' (help):T
+	
  TEKTRONIX PRIMITIVES LOADED
 
 
