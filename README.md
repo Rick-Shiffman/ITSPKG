@@ -26,7 +26,7 @@ PPRINT? (Y OR N) space is yes too /PPRINT/FRAMES
 	
 LISTENING-AT-LEVEL 1 PROCESS 1
 	
-<FLOAD "XITSPKG >">$e
+<FLOAD "XITSPKG >">$
 "DONE"
   
 ;"load a factorial test package"
