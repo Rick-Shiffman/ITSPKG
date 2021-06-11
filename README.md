@@ -21,8 +21,11 @@ Use "A" Ards and Imlacs or enter "H" for the help documentation. "T" is for Tekt
 	
 *MDL$^K!
 MUDDLE 56 IN OPERATION.MUDDLE INIT
+	
 PPRINT? (Y OR N) space is yes too /PPRINT/FRAMES
+	
 LISTENING-AT-LEVEL 1 PROCESS 1
+	
 <FLOAD "XITSPKG >">$e
 "DONE"
   
