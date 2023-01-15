@@ -7,7 +7,7 @@ Minimal Package System for ITS Muddle
 
 Hi Everyone latest version, TT:RRS;ITSPKG >, my  minimal ITS Muddle Package system is ready
 For peop[le to expriment with  report bugs to me at rrs0@earthlink.net and I will work on them. At the present
-Time I didn't add support for rpackages and my TRANSLATE? Just returns the string it given. The realmTRANSLATE?
+Time I didn't add support for rpackages and my TRANSLATE? Just returns the string it given. The real TRANSLATE?
 TRANSLATE AND UNTRANSLATE are still MIM code and commented out. L-SEARCH-PATH is SETGed to 
 (<SNAME>  "MUDDLE") and FIND/LOAD looks for FN1 = package-name, and FN2 = ">".
 
